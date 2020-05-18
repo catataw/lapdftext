@@ -4,6 +4,9 @@ Instructions on how to test and evaluate the LA-PDFText version 1.7
 
 Prerequisites:
 
+
+
+
 The following software must be installed before running the tests in the folder src/test/java
 
 1) Java version 1.6
